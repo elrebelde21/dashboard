@@ -1,21 +1,21 @@
-### Features
+### Características
 
--   PayPal Integration
--   Stripe Integration
--   Referral System
--   Partner System
--   Ticket System
--   Upgrade/Downgrade Server Resources
--   Store (credit system with hourly billing and invoices)
--   Email Verification
--   Audit Log
--   Admin Dashboard
--   User/Server Management
--   Customisable server plans
--   Vouchers
--   Alert System
--   Theme Support
--   and so much more!
+-   Integración con PayPal
+-   Integración con Stripe
+-   Sistema de remisión
+-   Sistema de socios
+-   Sistema de tickets
+-   Actualizar o degradar los recursos del servidor
+-   Tienda (sistema de crédito con facturación y facturas por hora)
+-   Verificación de correo electrónico
+-   Registro de auditoría
+-   Panel de administración
+-   Administración de usuarios/servidores
+-   Planes de servidores personalizables
+-   Cupones
+-   Sistema de alertas
+-   Soporte temático
+-   ¡y mucho más!
 
 # CtrlPanel-gg
 
@@ -27,41 +27,38 @@
 ![](https://img.shields.io/github/stars/CtrlPanel-gg/panel) ![](https://img.shields.io/github/forks/CtrlPanel-gg/panel) ![](https://img.shields.io/github/tag/CtrlPanel-gg/panel) [![Crowdin](https://badges.crowdin.net/controlpanelgg/localized.svg)](https://crowdin.com/project/controlpanelgg) ![](https://img.shields.io/github/issues/CtrlPanel-gg/panel) ![](https://img.shields.io/github/license/CtrlPanel-gg/panel) ![](https://img.shields.io/discord/787829714483019826)
 ## About
 
-CtrlPanel's Dashboard is a dashboard application designed to offer clients a management tool to manage their pterodactyl servers. This dashboard comes with a credit-based billing solution that credits users hourly for each server they have and suspends them if they run out of credits.
+El panel de control de CtrlPanel es una aplicación de panel diseñada para ofrecer a los clientes una herramienta de administración para administrar sus servidores de pterodáctilos. Este panel viene con una solución de facturación basada en créditos que acredita a los usuarios cada hora por cada servidor que tengan y los suspende si se quedan sin créditos.
 
-This dashboard offers an easy to use and free billing solution for all starting and experienced hosting providers. This dashboard has many customisation options and added discord Oauth verification to offer a solid link between your discord server and your dashboard. You can check our [Demo here](https://demo.ctrlpanel.gg "Demo").
+Este panel ofrece una solución de facturación gratuita y fácil de usar para todos los proveedores de alojamiento principiantes y experimentados. Este panel tiene muchas opciones de personalización y ha añadido la verificación Oauth de Discord para ofrecer un enlace sólido entre tu servidor de Discord y tu panel de control. Puedes consultar nuestro [Demo aquí](https://demo.ctrlpanel.gg "Demo").
 
-### [Installation](https://ctrlpanel.gg/docs/intro "Installation")
+### [Instalación](https://ctrlpanel.gg/docs/intro "Installation")
 
-### [Updating](https://ctrlpanel.gg/docs/Installation/updating "Updating")
+### [Actualización](https://ctrlpanel.gg/docs/Installation/updating "Updating")
 
 ### [Discord](https://discord.gg/4Y6HjD2uyU "Discord")
 
-### [Contributing](https://ctrlpanel.gg/docs/Contributing/contributing "Contributing")
+### [Contribuyendo](https://ctrlpanel.gg/docs/Contributing/contributing "Contributing")
 
-### [Donating](https://ctrlpanel.gg/docs/Contributing/donating "Donating")
+### [Donar](https://ctrlpanel.gg/docs/Contributing/donating "Donating")
 
+# Vista previa
 
-
-# Preview
-
-### Server Creation
+### Creación de servidores
 ![image](https://user-images.githubusercontent.com/67899387/214687234-d1ae58c0-5667-4e99-ac39-adeaabfcc7f2.png)
 
-### Overview
+### Visión general
 ![image](https://user-images.githubusercontent.com/67899387/214685859-03c8d9e1-c685-4a07-979f-df2e88ec3931.png)
 
-### Example server products
+### Ejemplos de productos de servidor
 ![image](https://user-images.githubusercontent.com/67899387/214686950-218e1ede-6a1f-4e53-b3f4-fe1abc371a9c.png)
 
-### Ticket System
+### Sistema de tickets
 ![image](https://user-images.githubusercontent.com/67899387/214687123-0a3d0f8f-b53c-4b0d-869a-4d5df45f5184.png)
 
-### Voucher System
+### Sistema de cupones
 ![image](https://user-images.githubusercontent.com/67899387/214686578-ec9f0b0f-6047-4665-835f-70594b56dfd5.png)
 
-### Partner System
+### Sistema de socios
 ![image](https://user-images.githubusercontent.com/67899387/214686321-36ba97a3-4181-4e60-9ba3-c9b318fe66a8.png)
-
 
 
